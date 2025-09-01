@@ -17,7 +17,7 @@ I am practicing in **C++**, starting from Arrays and moving towards advanced top
 ## 🚀 Progress Tracker
 | Date       | Topic   | Problem | Platform | Solution |
 |------------|---------|---------|----------|----------|
-| 2025-08-30 | Arrays  | Rotate Array by K steps | [LeetCode](https://leetcode.com/problems/rotate-array/) | [Code](./Arrays/rotate_array_k.cpp) |
+| 2025-08-30 | Arrays  | Rotate Array by K steps | [LeetCode](https://leetcode.com/problems/rotate-array/) | [Reverse technique]  [Code](./Arrays/rotate_array_k.cpp) |
 
 ---
 
