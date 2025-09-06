@@ -20,7 +20,7 @@ I am practicing in **C++**, starting from Arrays and moving towards advanced top
 | 2025-09-01| Arrays  | Rotate Array by K steps | [LeetCode](https://leetcode.com/problems/rotate-array/) | [Reverse technique]  [Code](./arrays/Rotate_Array) |
 |2025-09-01|  Arrays  | Move Zeroes To End      | [LeetCode](https://leetcode.com/problems/move-zeroes/) |[Two Pointers] [code](./arrays/Move_Zeroes_To_End)|
 |2025-09-06|  Arrays  | Find Union |[TakeYouForwward] (https://takeuforward.org/data-structure/union-of-two-sorted-arrays/) |[Using Loops] [Code](./arrays/Find_the_Union)|
-|2025-09-06|  Arrays  | Missing_No|[Leetcode](https://leetcode.com/problems/missing-number/) || [DifferenceOFSum] [Code](./arrays/Missing_No)|
+|2025-09-06|  Arrays  | Missing_No|[Leetcode](https://leetcode.com/problems/missing-number/) | [DifferenceOFSum] [Code](./arrays/Missing_No)|
 ---
 
 
