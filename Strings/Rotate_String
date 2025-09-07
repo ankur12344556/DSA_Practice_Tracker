@@ -1,0 +1,21 @@
+class Solution {
+public:
+    bool rotateString(string s, string goal) {
+        if (s.size() != goal.size()) return false;
+        int n = s.size();
+
+        for (int k = 0; k < n; k++) {
+            char c = s[n - 1];
+            int index = n - 2;
+            while (index >= 0) {
+                s[index + 1] = s[index];
+                index--;
+            }
+            s[0] = c;
+
+            if (s == goal) return true;
+        }
+
+        return false;
+    }
+};
