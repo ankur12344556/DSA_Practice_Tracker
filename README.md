@@ -23,8 +23,8 @@ I am practicing in **C++**, starting from Arrays and moving towards advanced top
 |2025-09-06|  Arrays  | Missing_No|[Leetcode](https://leetcode.com/problems/missing-number/) | [DifferenceOFSum] [Code](./arrays/Missing_No)|
 |2025-09-06|  Arrays  | Max Consecutive Ones| [Leetcode](https://leetcode.com/problems/max-consecutive-ones/)|[UsingMaxCount] [Code](./arrays/Max_Consecutive_Ones)|
 |2025-09-07|  Strings | Rotate_String| [Leetcode](https://leetcode.com/problems/rotate-string/)|[UsingRotation] [code](./Strings/Rotate_String)
-|2025-09-07| Strings| Check_if_the_Sentence_Is _pangram|[leetCode](https://leetcode.com/problems/check-if-the-sentence-is-pangram/)|[UsingCount]
-[Code](./Strings/Check_if_the_Sentence_Is _pangram)|
+|2025-09-07| Strings| Panagram|[leetCode](https://leetcode.com/problems/check-if-the-sentence-is-pangram/)|[UsingCount][code](./Strings/Panagram)|
+
 ---
 
 
