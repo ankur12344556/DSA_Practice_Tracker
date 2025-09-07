@@ -24,6 +24,7 @@ I am practicing in **C++**, starting from Arrays and moving towards advanced top
 |2025-09-06|  Arrays  | Max Consecutive Ones| [Leetcode](https://leetcode.com/problems/max-consecutive-ones/)|[UsingMaxCount] [Code](./arrays/Max_Consecutive_Ones)|
 |2025-09-07|  Strings | Rotate_String| [Leetcode](https://leetcode.com/problems/rotate-string/)|[UsingRotation] [code](./Strings/Rotate_String)
 |2025-09-07| Strings| Panagram|[leetCode](https://leetcode.com/problems/check-if-the-sentence-is-pangram/)|[UsingCount][code](./Strings/Panagram)|
+|2025-09-07| Arrays| Single_Number|[Leetcode](https://leetcode.com/problems/single-number/)| [USing XOR][code](./arrays/Single_Number)|
 
 ---
 
