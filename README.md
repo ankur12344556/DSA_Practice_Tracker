@@ -22,6 +22,7 @@ I am practicing in **C++**, starting from Arrays and moving towards advanced top
 |2025-09-06|  Arrays  | Find Union |[TakeYouForwward] (https://takeuforward.org/data-structure/union-of-two-sorted-arrays/) |[Using Loops] [Code](./arrays/Find_the_Union)|
 |2025-09-06|  Arrays  | Missing_No|[Leetcode](https://leetcode.com/problems/missing-number/) | [DifferenceOFSum] [Code](./arrays/Missing_No)|
 |2025-09-06|  Arrays  | Max Consecutive Ones| [Leetcode](https://leetcode.com/problems/max-consecutive-ones/)|[UsingMaxCount] [Code](./arrays/Max_Consecutive_Ones)|
+|2025-09-06|  Strings | Rotate_String| [Leetcode](https://leetcode.com/problems/rotate-string/)|[UsingRotation] [code](./arrays/Rotate_String)
 ---
 
 
