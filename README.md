@@ -27,6 +27,7 @@ I am practicing in **C++**, starting from Arrays and moving towards advanced top
 |2025-09-07| Arrays| Single_Number|[Leetcode](https://leetcode.com/problems/single-number/)| [USing XOR][code](./arrays/Single_Number)|
 |2025-09-08| Strings|Sort_Vowels|[Leetcode](https://leetcode.com/problems/sort-vowels-in-a-string/)|[usingVowelArr] [Code](./Strings/Sort_Vowels)|
 |2025-09-08| Arrays| sort_colors| [Leetcode](https://leetcode.com/problems/sort-colors/)|[using3Pointer] [Code](./arrays/sort_colors)|
+|2025-09-10| Srtings| Remove_Outer_()|[Leetcode](https://leetcode.com/problems/remove-outermost-parentheses/)|[Code](./Strings/Remove_Outer_( ))|
 
 ---
 
